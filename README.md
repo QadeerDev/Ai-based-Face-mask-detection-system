@@ -10,7 +10,7 @@
 
 **Production-grade real-time face mask detection system built for medical and clinical compliance monitoring.**
 
-*Day 3 of my LinkedIn AI Portfolio Series — 45+ AI Projects | 2× IEEE Published*
+*Day 3 of my LinkedIn AI Portfolio Series
 
 </div>
 
@@ -81,8 +81,8 @@ MobileNetV2 wins on the **accuracy-to-size-to-speed** tradeoff — critical for 
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/QadeerDev/face-mask-detection.git
-cd face-mask-detection
+git clone https://github.com/QadeerDev/Ai-based-Face-mask-detection-system.git
+cd Ai-based-Face-mask-detection-system
 pip install -r requirements.txt
 ```
 
@@ -119,7 +119,7 @@ python src/detect_realtime.py --source "rtsp://192.168.1.100/stream"
 ## 📁 Project Structure
 
 ```
-face-mask-detection/
+Ai-based-Face-mask-detection-system/
 ├── src/
 │   ├── train.py              # Model training with MobileNetV2
 │   ├── detect_realtime.py    # Live webcam/video inference
@@ -196,7 +196,7 @@ shear_range=0.15          # Camera angle variation
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-qadeerjutt-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/qadeerjutt)
 [![Fiverr](https://img.shields.io/badge/Fiverr-qadeeryounas-1DBF73?style=flat&logo=fiverr)](https://fiverr.com/qadeeryounas)
 
-*45+ AI Projects | 2× IEEE Published | Computer Vision Specialist*
+*45+ AI Projects | Computer Vision Specialist*
 
 ---
 
